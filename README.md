@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; URL=pasta/index.html">
+    <meta http-equiv="refresh" content="0; URL=portfolio_dav/index.html">
   </head>
   <body></body>
 </html>
