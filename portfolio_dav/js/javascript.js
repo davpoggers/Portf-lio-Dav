@@ -10,3 +10,11 @@ function toggleMode(){
         img.setAttribute("src", "./img/pfp_dark.png");
     }
 }
+
+const link = document.getElementById('abrir');
+const img = document.getElementById('janela');
+
+link.addEventListener('click', function(e) {
+  e.preventDefault();
+  img.style.display = img.style.display === 'none' ? 'block' : 'none';
+});
